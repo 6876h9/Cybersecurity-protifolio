@@ -36,8 +36,10 @@
 ### Individual machine case studies related to Linux privilege escalation are documented separately with:
 
 #### • Initial access explanation
-#### • Privilege escalation path
 #### • Security impact
+#### • Privilege escalation path
 #### • Defensive recommendations
+
+## This folder represents foundational Linux security knowledge used throughout my other case studies.
 
 ## This folder represents foundational Linux security knowlaedge used throughout my other case studies.
