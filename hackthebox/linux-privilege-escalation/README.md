@@ -41,5 +41,3 @@
 #### • Defensive recommendations
 
 ## This folder represents foundational Linux security knowledge used throughout my other case studies.
-
-## This folder represents foundational Linux security knowlaedge used throughout my other case studies.
